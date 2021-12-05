@@ -33,6 +33,10 @@ After analyzing the data i.e., “DQ analysis” we saw and return of 199% for �
 
 
  ![Scriptruntime_2017.png](Resources/Scriptruntime_2017.png)
+ 
+ ![Scriptruntime_2018.png](Resources/Scriptruntime_2018.png)
+ 
+ 
 
  
 
