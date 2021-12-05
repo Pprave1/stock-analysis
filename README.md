@@ -21,13 +21,13 @@ After analyzing the data i.e., “DQ analysis” we saw and return of 199% for �
    ### Before Refactoring the code
  
 
-![Scriptruntime_2017.png](Resources/Scriptruntime_2017.png)
+
 
 
  
 ###  After refactoring the code
 
 
- 
+ ![Scriptruntime_2017.png](Resources/Scriptruntime_2017.png)
 
  
