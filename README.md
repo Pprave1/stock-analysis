@@ -21,6 +21,7 @@ After analyzing the data i.e., “DQ analysis” we saw and return of 199% for �
    ### Before Refactoring the code
  
 
+ ![Beforerefactoring_2017_2018.png](Resources/Beforerefactoring_2017_2018.png)
 
 
 
