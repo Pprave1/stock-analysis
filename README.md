@@ -3,8 +3,9 @@
 ## Overview of The Project:
 ### Purpose 
 The purpose of this project is to help Steve ,who recently graduated in finance. Steve is going to help his first clients, which is his parents to invest in “DAQO New Energy Corp”, its ticker symbol is “DQ”.  His first step was to research couple of other stocks to diversify his client’s funds. To help Steve, we used Visual Basic for Applications (VBA), a programming language which interacts with Excel and do automated analysis for any stocks. With the help of VBA we wrote excel macros to analyze the data from raw data sheet provided.
-Attach the data sheet here
+
 [VBA_Challenge.xlsm](VBA_Challenge.xlsm)
+
 In this challenge we first wrote the code to analyze the data, then using the same information, we re-factored the code to improve the performance of VBA script. This analysis helped in preparing a written report about our findings to help Steve in decision making. 
 ## Results
 ### Analysis
