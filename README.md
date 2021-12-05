@@ -14,7 +14,8 @@ The Data sheet contains details of 12 different stocks for two consecutive years
 ![CodeAnalysis_VBAScript.PNG](Resources/CodeAnalysis_VBAScript.PNG)
 
 
-Insert Output
+![DQAnalysis_2018.png](Resources/DQAnalysis_2018.png)
+
 After analyzing the data i.e., “DQ analysis” we saw and return of 199% for “DQ” in 2017, but there is a 63 % drop in 2018 for stock “DQ”, As a good financial analyst Steve wants to offer better service to his clients. Steve had to analyze other stocks, so we created “AllStocksAnalysis” worksheet with three columns “Ticker”, “TotalDailyVolume” and “Return” using data from 2017 and 2018 sheet. During this analysis, we found out that, a big drop in all stocks including DQ happened in 2018 compared to 2017 with the exception of few stocks like “RUN” and ENPH which gave a continuous growth in 2017 and 2018. Hope this data helps Steve to choose the best choice. Along with this challenge to prepare an output for analysis using vb script / macro. We refactored the macro code by removing one “for loop”. This gave a better performance by increasing the efficiency of program execution.
 ## Summary
 1)	What are the advantages or disadvantages of refactoring code?
