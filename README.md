@@ -10,7 +10,7 @@ In this challenge we first wrote the code to analyze the data, then using the sa
 ## Results
 ### Analysis
 The Data sheet contains details of 12 different stocks for two consecutive years 2017 and 2018. This included the ticker values, date the stock was issued, its opening price, closing price along with adjusted closing price, the high and low prices, and the volume of stock. First to analyze the DQ stock data, a DQ Analysis Worksheet was created to get the output of total daily Volume and yearly return from 2017 and 2018 worksheet. This was achieved using some of the technical features available in VBA , for ex – Looping process, array handling techniques , conditional statements etc.
-Insert Code
+
 ![CodeAnalysis_VBAScript.PNG](Resources/CodeAnalysis_VBAScript.PNG)
 
 
@@ -22,11 +22,8 @@ After analyzing the data i.e., “DQ analysis” we saw and return of 199% for �
         took less than a second.
 
    ### Before Refactoring the code
- 
 
  ![Beforerefactoring_2017_2018.png](Resources/Beforerefactoring_2017_2018.png)
-
-
 
  
 ###  After refactoring the code
@@ -34,4 +31,3 @@ After analyzing the data i.e., “DQ analysis” we saw and return of 199% for �
 
  ![Scriptruntime_2017.png](Resources/Scriptruntime_2017.png)
 
- 
